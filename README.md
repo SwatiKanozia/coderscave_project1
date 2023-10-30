@@ -1,5 +1,6 @@
 # coderscave_project1
-I am excited to announce my latest accomplishments as a Web Development intern at coderscave.
-I have successfully completed the Golden Task 2. Online Code Editor of (HTML, CSS, JAVASCRIPT).
+I'm excited to share that I have successfully completed the Normal Task. 1. Netflix Clone Page of my Web Development Internship at CodersCave.
+
+I am thankful to be part of a team that encourages learning, innovation and pushing boundaries in Web development.
 
 Thank you, CodersCave for the fantastic opportunity!
